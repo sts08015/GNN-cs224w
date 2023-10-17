@@ -1,4 +1,4 @@
-# GNN-lecture
+# GNN-lecture (work-in-progress; anticipated to finish by 2023 winter)
 
 This is a repository of my solution to Stanford cs224w lecture (Winter 2023).
 
